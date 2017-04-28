@@ -8,6 +8,7 @@ namespace WebApp4
     {
         public void Configuration(IAppBuilder app)
         {
+            string a = "1";
             ConfigureAuth(app);
         }
     }
